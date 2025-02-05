@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/JimmyMa99">
-    <img src="https://github-readme-stats.vercel.app/api?username=JimmyMa99&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight" alt="Jimmy's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JimmyMa99&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" alt="Jimmy's GitHub stats" width="48%" />
   </a>
   <a href="https://github.com/JimmyMa99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimmyMa99&hide_border=true&theme=tokyonight" alt="Jimmy's streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimmyMa99&hide_border=true" alt="Jimmy's streak" width="48%" />
   </a>
 </p>
 
@@ -25,6 +25,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -39,9 +40,7 @@
   <a href="mailto:mazhiming312@outlook.com">
     <img src="https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: mzm312" />
-  </a>
+  <img src="https://img.shields.io/badge/-WeChat: mzm312-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
 ### 🐍 Contributions
