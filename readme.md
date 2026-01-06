@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Jimmy! 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/JimmyMa99">
-    <img src="https://github-readme-stats.vercel.app/api?username=JimmyMa99&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" alt="Jimmy's GitHub stats" width="48%" />
-  </a>
-</p>
 
 ### 🎓 Education
 - Master's degree in Control Science and Engineering, Northeastern University
